@@ -11,4 +11,4 @@ using the ExerciseDB API : https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb
 
 <br/>
 
-Deploy link: 
+Deploy link: https://exercise-vue-blog.netlify.app
