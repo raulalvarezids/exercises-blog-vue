@@ -10,3 +10,5 @@ using the ExerciseDB API : https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb
 -See exercises that focus on that muscle
 
 <br/>
+
+Deploy link: 
